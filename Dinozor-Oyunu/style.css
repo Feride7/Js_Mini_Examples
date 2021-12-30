@@ -41,7 +41,7 @@ body {
 }
 
 .dinoAnimasyon {
-    animation: dinozor 3s linear infinite;
+    animation: dinozor 3s linear;
 }
 
 @keyframes kaktus {
